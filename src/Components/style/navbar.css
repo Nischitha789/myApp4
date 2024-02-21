@@ -1,0 +1,19 @@
+.na {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+  background-color: rgb(212, 103, 103);
+}
+.na a {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: larger;
+  color: black;
+  background-color: rgb(235, 64, 64);
+}
+.na a:hover {
+  background-color: yellow;
+}
